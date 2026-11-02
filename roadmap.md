@@ -1,0 +1,26 @@
+# Solysto website
+- [x] Add pronounced site-wide motion and verify navigation, collection interactions and reduced motion.
+- [x] Build premium navy-and-ivory customer website using the supplied logo and photos.
+- [x] Create photo-based catalogue, add follow-up photos as products 11–15, and the newly supplied bracelet as product 10 (all 15 now received).
+- [x] Add product enquiries to WhatsApp, client-attributed silver/hallmark claims, and confirmed 2-year warranty.
+- [x] Verify catalogue, enquiries, and desktop/mobile layouts.
+- [x] Replace temporary opening with the supplied video and scroll-controlled frame-by-frame playback.
+- [x] Correct scroll pinning, playback range and smoothness.
+- [x] Increase visual scale and verify desktop and mobile layouts.
+- [x] Add live reduced-motion mode with manually controlled video, polished poster and loading/error states.
+- [x] Increase typography and refine motion while respecting reduced-motion preferences.
+- [x] Verify loading, motion preference changes, scroll playback and mobile layouts.
+- [x] Serve smaller responsive hero videos and lightweight poster-first loading on slow connections.
+- [x] Reduce mobile scroll latency and slightly reduce collection photo card sizes.
+- [x] Verify responsive media choice, slow-network fallback, mobile scrubbing and catalogue flow.
+- [x] Generate a Solysto jewellery-to-hand film inspired by the supplied animation reference.
+- [x] Review generated product appearance and integrate responsive hero versions if suitable.
+- [x] Remove manual film loading and add desktop/mobile play, pause and scroll-resume controls.
+- [x] Animate selected product photos and verify controls, product navigation and reduced motion.
+- [x] Add the "Made by VANTYX Studio" credit at the end of the footer.
+- [x] Start hero video loading immediately and remove custom playback buttons.
+- [x] Add a dismissible Instagram popup linking to @solystoindia.
+- [x] Animate real product photos on click and apply uniform dark photo backgrounds preserving the jewellery.
+- [x] Convert the whole site to a dark theme (deep navy surfaces, ivory text).
+- [x] Restore products 11–15 (leopard, birds, serpent brooch, both rings) to their original photos while keeping the dark theme.
+- [x] Show the Spotted Panther Brooch as a full photo framed in navy on the collection page only.
